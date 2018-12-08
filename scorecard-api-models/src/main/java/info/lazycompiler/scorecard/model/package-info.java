@@ -1,0 +1,1 @@
+package info.lazycompiler.scorecard.model;
